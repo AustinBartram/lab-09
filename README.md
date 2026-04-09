@@ -12,7 +12,7 @@ In this lab, you learned about the basic building block of sequential circuits: 
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
-
+Colby Allen & Austin Bartram
 ## Summary
 We learned how to use a latch with Demultiplexers and multiplexers to store memory. What was new, was usng a reset and set. 
 
